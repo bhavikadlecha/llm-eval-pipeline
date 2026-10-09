@@ -1,0 +1,9 @@
+# Project Dependencies for Automated LLM Evaluation Pipeline
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+pydantic>=2.7.0
+httpx>=0.27.0
+python-dotenv>=1.0.1
+rich>=13.7.0
+groq>=0.9.0
+rich>=13.7.0
